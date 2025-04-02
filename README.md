@@ -4,7 +4,7 @@
 A powerful, interactive dashboard for analyzing stocks and predicting future price movements using machine learning and technical analysis.
 
 ![Dashboard Screenshot]![dashboard](https://github.com/user-attachments/assets/f0878304-249f-4cfb-8009-58b080d3e542)
-,![dashboard2](https://github.com/user-attachments/assets/ddbbc4d3-0f6f-4831-aeb5-3b859336b4b7)
+![dashboard2](https://github.com/user-attachments/assets/ddbbc4d3-0f6f-4831-aeb5-3b859336b4b7)
 
 
 ## Features
@@ -27,8 +27,8 @@ A powerful, interactive dashboard for analyzing stocks and predicting future pri
 ## Demo
 
 ![Demo GIF]![demo1](https://github.com/user-attachments/assets/fac866b6-cd80-4c67-bd2f-cbc3308ccf04)
-,![demo2](https://github.com/user-attachments/assets/61544371-5a59-40c1-91e3-7a07b9a77b3b)
-,![demo3](https://github.com/user-attachments/assets/41dcd4b5-f8f3-4a3b-b721-d9aaa658c759)
+![demo2](https://github.com/user-attachments/assets/61544371-5a59-40c1-91e3-7a07b9a77b3b)
+![demo3](https://github.com/user-attachments/assets/41dcd4b5-f8f3-4a3b-b721-d9aaa658c759)
 
 
 ## Installation
